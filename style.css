@@ -1,0 +1,30 @@
+body{
+    background-image:url("Background.jpg");
+    text-align: center;
+}
+#img{
+    height: 200;
+    width: 200;
+}
+#h1{
+    font-weight: bolder;
+}
+#h2{
+    font-weight: 100;
+    
+}
+.div_1{
+    background-color: white;
+    width: 400;
+    height: 550;
+    text-align: center;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
